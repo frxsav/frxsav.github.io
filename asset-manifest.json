@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frxsav.github.io/static/css/main.4326d596.chunk.css",
+    "main.js": "/frxsav.github.io/static/js/main.a934cd13.chunk.js",
+    "main.js.map": "/frxsav.github.io/static/js/main.a934cd13.chunk.js.map",
+    "runtime-main.js": "/frxsav.github.io/static/js/runtime-main.7533d9ca.js",
+    "runtime-main.js.map": "/frxsav.github.io/static/js/runtime-main.7533d9ca.js.map",
+    "static/js/2.0e9212e1.chunk.js": "/frxsav.github.io/static/js/2.0e9212e1.chunk.js",
+    "static/js/2.0e9212e1.chunk.js.map": "/frxsav.github.io/static/js/2.0e9212e1.chunk.js.map",
+    "static/js/3.b3b7a8dc.chunk.js": "/frxsav.github.io/static/js/3.b3b7a8dc.chunk.js",
+    "static/js/3.b3b7a8dc.chunk.js.map": "/frxsav.github.io/static/js/3.b3b7a8dc.chunk.js.map",
+    "index.html": "/frxsav.github.io/index.html",
+    "static/css/main.4326d596.chunk.css.map": "/frxsav.github.io/static/css/main.4326d596.chunk.css.map",
+    "static/js/2.0e9212e1.chunk.js.LICENSE.txt": "/frxsav.github.io/static/js/2.0e9212e1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frxsav.github.io/static/media/libri.51c3e945.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7533d9ca.js",
+    "static/js/2.0e9212e1.chunk.js",
+    "static/css/main.4326d596.chunk.css",
+    "static/js/main.a934cd13.chunk.js"
+  ]
+}
